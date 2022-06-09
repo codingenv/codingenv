@@ -5,8 +5,6 @@
 - 📫 How to reach me apps.prak@gmail.com
 
 
-Interview Preparation for a tech lead position:
-================================================
 Java Questions:
 =================================
     01. Cuncurrancy and multi-threading
@@ -65,7 +63,11 @@ REST Api/Architecture Questions
 
 System Design Questions
 =================================
-
+    1. Design Rate limitter
+    2. Design youtube
+    3. Design Ola/Uber
+    4. Design hoststar/live streaming
+    
 
 
 
@@ -74,6 +76,14 @@ System Design Questions
 
 Design Pattern Questions
 =================================
+    1. Singleton design pattern
+    2. Factory design pattern
+    3. Builder design pattern
+    4. State design pattern
+    5. Bridge design pattern
+    6. Adaptor design pattern
+    7. Proxy design pattern
+    8. Strategy design pattern
 
 
 

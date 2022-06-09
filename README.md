@@ -7,19 +7,18 @@
 
 Interview Preparation for a tech lead position:
 ================================================
-
 Java Questions:
 =================================
-01. Cuncurrancy and multi-threading
-02. Exceptions 
-03. Collections
-04. String, Stringbuffer and String builder
-05. Serilization
-06. Annotations
-07. Final and Finally keyword.
-08. Static Keyword.
-09. Synchronization
-10. Java 8 features 
+    01. Cuncurrancy and multi-threading
+    02. Exceptions 
+    03. Collections
+    04. String, Stringbuffer and String builder
+    05. Serilization
+    06. Annotations
+    07. Final and Finally keyword.
+    08. Static Keyword.
+    09. Synchronization
+    10. Java 8 features 
 
 
 
@@ -41,9 +40,9 @@ DSA Questions:
 
 Web services based Questions
 =================================
-01. Apache tomcat server
-02. Apache message queue
-03. Quartz
+    01. Apache tomcat server
+    02. Apache message queue
+    03. Quartz
 
 
 
@@ -85,8 +84,8 @@ Design Pattern Questions
 
 Soft Skill Questions
 =================================
-1. Tell us some of the biggest failure of your career
-2. How you resolve conflicts of two team members.
-3. Strenght and weakness.
+    1. Tell us some of the biggest failure of your career
+    2. How you resolve conflicts of two team members.
+    3. Strenght and weakness.
 
 

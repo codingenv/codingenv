@@ -40,7 +40,10 @@ Web services based Questions
 =================================
     01. Apache tomcat server
     02. Apache message queue
-    03. Quartz
+    03. Quartz 
+    04. Servlet 
+    05. Maven 
+    06. Gradle
 
 
 

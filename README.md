@@ -70,6 +70,7 @@ System Design Questions
     2. Design youtube
     3. Design Ola/Uber
     4. Design hoststar/live streaming
+    5. Design vehicle parking syatem
     
 
 

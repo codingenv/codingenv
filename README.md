@@ -16,7 +16,8 @@ Java Questions:
     07. Final and Finally keyword.
     08. Static Keyword.
     09. Synchronization
-    10. Java 8 features 
+    10. Java 8 features
+    11. Difference between EJB and normal bean 
 
 
 
@@ -71,6 +72,8 @@ System Design Questions
     3. Design Ola/Uber
     4. Design hoststar/live streaming
     5. Design vehicle parking syatem
+    6. Design distributed cache system.
+    7. Design a call back mecahnism.
     
 
 

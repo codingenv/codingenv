@@ -17,7 +17,7 @@ Java Questions:
     08. Static Keyword.
     09. Synchronization
     10. Java 8 features
-    11. Difference between EJB and normal bean 
+    11. Difference between EJB and normal bean: https://pediaa.com/what-is-the-difference-between-ejb-and-javabeans/
 
 
 

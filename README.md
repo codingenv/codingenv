@@ -45,6 +45,11 @@ Web services based Questions
     04. Servlet 
     05. Maven 
     06. Gradle
+    07. How to create a callback service in Web service 
+    08. Difference between application logic and web logic.
+    09. Difference between tomcat webservice and IBM web applications.
+    10. What is conatiners in tomcat.
+    11. Different types of containers in tomcat.
 
 
 

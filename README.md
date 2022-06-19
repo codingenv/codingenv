@@ -61,6 +61,8 @@ Springboot Questions
 
 Hibernate Questions
 =================================
+1. What is transaction manager.
+2. What is hibernate cache.
 
 
 

@@ -8,7 +8,7 @@
 Java Questions:
 =================================
     01. Cuncurrancy and multi-threading : https://howtodoinjava.com/java-concurrency-tutorial/
-    02. Exceptions 
+    02. Exceptions
     03. Collections
     04. String, Stringbuffer and String builder
     05. Serilization
@@ -18,7 +18,9 @@ Java Questions:
     09. Synchronization
     10. Java 8 features
     11. Difference between EJB and normal bean: https://pediaa.com/what-is-the-difference-between-ejb-and-javabeans/
-
+    12. Errors
+    13. Tryt with resource.
+    14. Java Compilation process.
 
 
 

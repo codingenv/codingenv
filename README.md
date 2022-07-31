@@ -85,6 +85,7 @@ System Design Questions
     5. Design vehicle parking syatem
     6. Design distributed cache system.
     7. Design a call back mecahnism.
+    8. Design a queue.
     
 
 

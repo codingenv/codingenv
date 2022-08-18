@@ -124,5 +124,6 @@ Soft Skill Questions
     1. Tell us some of the biggest failure of your career
     2. How you resolve conflicts of two team members.
     3. Strenght and weakness.
+    4. Learning
 
 

@@ -130,9 +130,14 @@ Soft Skill Questions
 Programming questions practice :
 ====================================
 -> Candy Distribution: https://www.codingninjas.com/codestudio/problems/candy-distribution_5038447 [Greedy Algo]
+
 -> Maximum Meeting : https://www.codingninjas.com/codestudio/problems/meeting_1376415
+                   
                    : https://www.codingninjas.com/codestudio/problems/ninja-and-his-meetings_1263693
+                   
                    : https://www.codingninjas.com/codestudio/problems/find-conflicting-meetings_1170047 
+                   
                    : https://www.codingninjas.com/codestudio/problems/meeting-room-ii_893289
+                   
                    : https://www.codingninjas.com/codestudio/problems/best-meeting-point_1463982
 ->

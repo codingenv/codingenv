@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingenv
+- 👋 Hi, I’m Prakash Ranjan
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning data structure and algorithm
 - 💞️ I’m looking to collaborate on Java Projects
